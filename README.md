@@ -5,4 +5,4 @@
 -  How to reach me: [leetaeung5006@gmail.com](mailto:taewoong5006@gmail.com)
 
 ## Language & Tool
-Python, C++ & Catia, Unity, AuotoMod
+Python, C++ & CATIA, Unity, AuotoMod
