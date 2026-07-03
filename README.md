@@ -4,5 +4,5 @@
 -  I'm currently learning lndustial Management Systems Engineering at Kyung Hee Univ.
 -  How to reach me: [leetaeung5006@gmail.com](mailto:taewoong5006@gmail.com)
 
-## Language & Framework
-Python, C++ & CATIA, UNITY, AuotoMod
+## Language & Tool
+Python, C++ & Catia, Unity, AuotoMod
